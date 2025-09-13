@@ -1,0 +1,7 @@
+
+body {background-color:lightgrey}
+h1 {font-size:40px;color:blue}
+p#p1 {font-family:Agency FB;color:red;font-size:30px}
+p.p2 {font-family:cooper;color:purple;font-size:30px}
+pre.pre1 {font-family:curlz mt;color:green;font-size:30px}
+pre#pre2 {font-family:giri;color:black;font-size:30px}
