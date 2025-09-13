@@ -90,6 +90,7 @@ public class dropDown {
             oSelect.selectByVisibleText("Raichur");
             oSelect.selectByVisibleText("Bangalore");
             oSelect.selectByVisibleText("Hubballi");
+
             Thread.sleep(2000);
 
             //9. How to read all the multiple value selected from multi-select dropdown?
